@@ -4,11 +4,9 @@ This portion of the project is to process tree data. TreeTracker's Admin Panel F
 
 See [Wiki](https://github.com/Greenstand/treetracker-admin-api/wiki) for more info on goals
 
-### See [Current Milestone](https://github.com/Greenstand/treetracker-admin/issues?q=is%3Aopen+is%3Aissue+milestone%3A1.1.0)
-
 See [Contributing to The Cause](https://github.com/Greenstand/Development-Overview#contributing-to-the-cause)
 
-### See [New Milestone](https://github.com/Greenstand/treetracker-admin/milestone/3)
+### See [Current Milestone](https://github.com/Greenstand/treetracker-admin/milestone/3)
 
 New milestone is about our new version 2.0 for the admin panel. Currently, we are on branch 'v2' to build this version, so if you have finished tickets in this milestone, please push/PR to this branch(v2).
 
