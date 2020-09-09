@@ -4,6 +4,7 @@ import { SpeciesController } from '../controllers';
 import { SpeciesRepository } from '../repositories';
 require('dotenv').config();
 
+// Sample test
 /*Purpose: Include env. variables in test in order to 
 map to env. variables in Github Actions.*/
 describe('Species Controller Integration Tests', () => {
